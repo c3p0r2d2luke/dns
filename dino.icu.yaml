@@ -643,6 +643,11 @@ leo:
   type: CNAME
   value: wilkin.xyz.
 
+lla: # frenchwizz@proton.me
+  - ttl: 600
+    type: CNAME
+    value: letslearnalgebra.surge.sh.
+
 levelzero: # @arjav0703 (gh) - ysws website
   ttl: 600
   type: A
