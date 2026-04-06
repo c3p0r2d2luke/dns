@@ -5550,7 +5550,8 @@ vote.daydream:
   ttl: 300
   type: CNAME
   value: b.selfhosted.hackclub.com.
-letslearnalgebra: # frenchwizz@proton.me U09S88YDUES
+  
+  letslearnalgebra: # frenchwizz@proton.me U012AB345CD
   - ttl: 600
-    type: A
-    value: 100.115.92.203.
+    type: CNAME
+    value: letslearnalgebra.surge.sh.
